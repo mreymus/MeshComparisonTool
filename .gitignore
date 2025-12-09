@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Slicer specific
+*.mrml
+*.mrb
+SceneViews/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+
+# Output files (example data)
+output/
+heatmaps/
+*.xlsx
+test_data/
+
+# Temporary files
+*.tmp
+*.bak
+*.log
