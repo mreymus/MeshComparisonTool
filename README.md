@@ -39,15 +39,8 @@ The implemented metrics are widely used in scientific publications for mesh qual
 - 3D Slicer 5.0 or later
 - **No additional Slicer extensions required** (works with core Slicer functionality)
 
-### Option 1: Install from Extension Manager (Recommended - After Publication)
 
-1. Open 3D Slicer
-2. Go to: `View` → `Extension Manager`
-3. Search for "Mesh Comparison Tool"
-4. Click `Install`
-5. Restart 3D Slicer
-
-### Option 2: Install from GitHub (For Development/Testing)
+### Install from GitHub (For Development/Testing)
 
 1. Download or clone this repository:
    ```bash
